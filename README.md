@@ -1,2 +1,2 @@
-# IP
-Just a repository holding the IP address of servers
+IPV4:81.240.94.97
+PORT:5127
